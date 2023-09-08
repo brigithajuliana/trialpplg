@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    width: 100%;
+}
+#h1 a {
+    text-decoration: none;
+    color: orange;
+    font-size: 3vw;
+    margin: 20px;
+    font-family: 'Fontdiner Swanky';
+}
+.navbar ul li a{
+    text-decoration: none;
+}
+.navbar{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: cornflowerblue;
+    position: fixed;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.tabs{
+    color: aliceblue;
+    font-size: 1.1vw;
+    margin: 5px auto;
+    padding: 5px 10px;
+    display: inline-block;
+    font-family: 'Miltonian Tattoo';
+}
+.ds{
+    padding: 100px 20px 10px 75px;
+    font-size: 3vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+.judulb{
+    padding: 100px 20px 10px 75px;
+    text-align: center;
+    font-size: 3vw;
+    color: green;
+    font-family: 'Kavoon';
+}
+.card3{
+    margin: 0 0 40px 90px;
+    padding: 10px;
+    width: 20%;
+    height: auto;
+    border: 1px solid;
+    display: inline-block;
+}
+.gambar3{
+    width: 100%;
+    height: auto;
+}
+#h4{
+    color: black;
+    font-size: 2vw;
+    text-align: center;
+}
+#h4 a{
+text-decoration: none;
+}
+
+.p{
+    width: auto;
+    background-color: green;
+    font-size: 1.7vw;
+    color: white;
+    margin: 30px;
+    font-family: 'ADLaM Display';
+}
+
+.card{
+    margin: 0 0 40px 90px;
+    padding: 10px;
+    width: 20%;
+    height: auto;
+    border: 1px hidden;
+    display: inline-block; 
+}
+
+.card2{
+    margin: 5px;
+    padding: 10px; 
+    width: 45vw;
+    height: auto;
+    border: 1px hidden;
+    display: inline-block;
+}
+.data{
+    color: black;
+    margin: 10px 10px 3dvh 10px;
+    padding: 5px;
+    list-style: none;
+    font-size: 1.5vw;
+
+}
+.sinopsis{
+    list-style: none;
+    padding: 1vw 1vw 1vw 30vw;
+    font-size: 2vw;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.judul{
+    list-style: none;
+    padding: 10px 20px 10px 10px;
+    font-size: 2.3vw;
+    color: green;
+    font-family: 'ADLaM Display';
+}
+.sinopsisp{
+    margin: 2% 0 0 0;
+    list-style: none;
+    font-size: 1.3vw;
+    color: black;
+}
+.cinema{
+    margin: 2vw;
+    width: 10vw;
+}
+.card3 a{
+    text-decoration: none;
+}
+
+#h41{
+    color: black;
+    font-size: 1.7vw;
+    text-align: center;
+}
+#h42{
+    margin: 10px 0;
+    color: black;
+    font-size: 1.10vw;
+    text-align: center;
+}
+#h43{
+    margin: 15px 0;
+    color: black;
+    font-size: 0.9vw;
+    text-align: center;
+}
